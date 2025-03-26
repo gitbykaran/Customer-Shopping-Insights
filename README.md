@@ -1,5 +1,5 @@
 # 🛒 Shopping Trends Data Analysis | Customer Behavior & Sales Insights  
-![]()
+![Image](https://github.com/user-attachments/assets/da7a651b-c4b3-4e10-be0f-ec55d0f005ed)
 ## 🔍 Project Overview  
 Analyzed **3,900+ customer transactions** using **SQL, Python** to uncover key **shopping trends, customer segmentation, and revenue drivers**. Implemented advanced **data cleaning, aggregation, and visualization** techniques to evaluate the impact of **discounts, seasonal demand shifts, and payment preferences** on sales performance.  
 
